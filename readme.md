@@ -1,1 +1,1 @@
-![alt text](<Дизайн без названия (1).png>)
+![alt text](banners.webp)
