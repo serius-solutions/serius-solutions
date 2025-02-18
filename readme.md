@@ -1,1 +1,1 @@
-![alt text](image.png)
+![alt text](<Дизайн без названия (1).png>)
